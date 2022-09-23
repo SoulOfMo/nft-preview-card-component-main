@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL](https://your-solution-url.com)
-- Live Site URL: [Live Site](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://github.com/SoulOfMo/nft-preview-card-component-main.git)
+- Live Site URL: [Live Site](https://soulofmo.github.io/nft-preview-card-component-main/)
 
 ## My process
 
