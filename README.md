@@ -10,6 +10,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
+  - [Useful resources](#useful-resources)
 - [Author](#author)
 
 
@@ -40,7 +41,9 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 
+### Useful resources
 
+- [Image Hover Text Overlay Effect with HTML & CSS](https://www.youtube.com/watch?v=exb2ab72Xhs&t=25s) - I was able to use and understand the position property better with the help of this video
 
 ## Author
 
